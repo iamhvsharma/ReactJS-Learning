@@ -1,0 +1,32 @@
+React Roadmap 
+
+Why React? 
+-> Hype, Job, Trend, Build UI 
+-> React makes easy to manage & build complete frontend
+
+When should I learn React?
+-> After Mastering JS
+-> Most Project don't need react in initial phase
+
+Utilities
+1. npx create-react-app appName 
+
+-> This utility is a time taking process and bulky utility so we don't use it in industry nowdays
+
+2. Instead we use vite
+
+Commands to make a project of react using vite
+
+npm create vite@latest
+Project name - 
+framework - React
+Variant - JavaScript
+
+
+
+# Study package.json file first of all   
+
+
+Learnings : 
+1. The function name in the component should be capitalise 
+
