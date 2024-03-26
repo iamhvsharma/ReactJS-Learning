@@ -1,9 +1,9 @@
  
 function App() {
-  
+  const username = 'iamhvsharma'
 
   return (
-    <h1>Chai aur code with vite | Harshvardhan </h1>
+    <h1>Github  username : | {username} </h1>
   )
 }
 
