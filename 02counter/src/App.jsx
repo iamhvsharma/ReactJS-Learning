@@ -15,14 +15,22 @@ function App() {
     // counter = ++counter;
     // console.log(counter);
 
-    setCounter(counter + 1)
+    if(counter < 20){
+      setCounter(counter + 1)
+    }
+
     console.log(counter);
   }
 
   const subValue = () => {
       // counter = ++counter;
       // console.log(counter);
-      setCounter(counter - 1);
+
+      if(counter > 0){
+
+        setCounter(counter - 1)
+      }
+
       console.log(counter);
   }
 
