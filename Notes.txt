@@ -30,9 +30,10 @@ Variant - JavaScript
 Learnings : 
 1. The function name in the component should be capitalise 
 
-Read Docs 
+Read Docs - Hooks
 
 useState 
 useCallback
 useEffect
 useRef
+useId
